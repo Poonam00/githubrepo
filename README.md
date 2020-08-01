@@ -23,3 +23,15 @@
 * Linux is also used as a Mobile Platform(Android)
 * Linux used for Cloud Infrastructure(AWS, Azure and Google Cloud)
 
+---
+# DATABASE
+* A database is an organised collection of data
+* Types of Database
+  1. Embedded Database and Flat Files
+      * Berkely DB, CSV file, JSON file, XML file:
+  2. Relational Database
+  3. NoSQL Database
+  4. Distributed Database
+      * Data is distributed over a cluster of databases to avail the data easily.
+      * Data are replicated over multiple servers
+      * Load Balancer is used to get data over multiple servers
